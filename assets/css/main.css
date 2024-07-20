@@ -160,8 +160,8 @@ img.img-fluid.rounded {
 }
 
 @media (max-width: 540px) {
-	.social-links.d-flex.justify-content-center {
-		display:none;
+	.social-links.d-flex {
+		display:none!important;
 	}
 }
 
